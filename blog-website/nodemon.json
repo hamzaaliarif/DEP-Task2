@@ -1,0 +1,6 @@
+{
+    "watch": ["app.js", "routes", "models", "views"],
+    "ext": "js,json,ejs",
+    "ignore": ["Untitled-1.js", "node_modules/"]
+  }
+  
